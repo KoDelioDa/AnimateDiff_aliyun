@@ -1,0 +1,2 @@
+wget https://huggingface.co/godlzj/Motion_Module/resolve/main/mm_sd_v14.ckpt -O models/Motion_Module/
+wget https://huggingface.co/godlzj/Motion_Module/resolve/main/mm_sd_v15.ckpt -O models/Motion_Module/
