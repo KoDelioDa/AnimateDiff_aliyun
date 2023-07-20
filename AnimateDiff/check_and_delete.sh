@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 定义文件路径
-file_path="AnimateDiff_aliyun/AnimateDiff/models/StableDiffusion/Put diffusers stable-diffusion-v1-5 repo here.txt"
+file_path="models/StableDiffusion/Put diffusers stable-diffusion-v1-5 repo here.txt"
 
 # 检查文件是否存在
 if [ -f "$file_path" ]; then
